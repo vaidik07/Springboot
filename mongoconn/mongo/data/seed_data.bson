@@ -1,0 +1,48 @@
+[
+  {
+    "_id": {"$oid": "56d5f7eb604eb380b0d8d8ce"},
+    "student_id": {"$numberDouble": "0"},
+    "scores": [
+      {
+        "type": "exam",
+        "score": {"$numberDouble": "78.40446309504266"}
+      },
+      {
+        "type": "quiz",
+        "score": {"$numberDouble": "73.36224783231339"}
+      },
+      {
+        "type": "homework",
+        "score": {"$numberDouble": "46.980982486720535"}
+      },
+      {
+        "type": "homework",
+        "score": {"$numberDouble": "76.67556138656222"}
+      }
+    ],
+    "class_id": {"$numberDouble": "339"}
+  },
+  {
+    "_id": {"$oid": "56d5f7eb604eb380b0d8d8cf"},
+    "student_id": {"$numberDouble": "1"},
+    "scores": [
+      {
+        "type": "exam",
+        "score": {"$numberDouble": "88.40446309504266"}
+      },
+      {
+        "type": "quiz",
+        "score": {"$numberDouble": "83.36224783231339"}
+      },
+      {
+        "type": "homework",
+        "score": {"$numberDouble": "56.980982486720535"}
+      },
+      {
+        "type": "homework",
+        "score": {"$numberDouble": "86.67556138656222"}
+      }
+    ],
+    "class_id": {"$numberDouble": "339"}
+  }
+]
