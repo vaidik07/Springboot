@@ -1,0 +1,194 @@
+[
+    {
+      "name": "Toy Car",
+      "quantity": 5,
+      "price": 200,
+      "_class": "com.example.Ecom.model.Items"
+    },
+    {
+      "name": "Stuffed Animal",
+      "quantity": 3,
+      "price": 150,
+      "_class": "com.example.Ecom.model.Items"
+    },
+    {
+      "name": "Building Blocks",
+      "quantity": 10,
+      "price": 100,
+      "_class": "com.example.Ecom.model.Items"
+    },
+    {
+      "name": "Doll",
+      "quantity": 2,
+      "price": 300,
+      "_class": "com.example.Ecom.model.Items"
+    },
+    {
+      "name": "Remote Control Car",
+      "quantity": 4,
+      "price": 250,
+      "_class": "com.example.Ecom.model.Items"
+    },
+    {
+      "name": "Board Game",
+      "quantity": 8,
+      "price": 180,
+      "_class": "com.example.Ecom.model.Items"
+    },
+    {
+      "name": "Action Figure",
+      "quantity": 6,
+      "price": 120,
+      "_class": "com.example.Ecom.model.Items"
+    },
+    {
+      "name": "Puzzle",
+      "quantity": 7,
+      "price": 90,
+      "_class": "com.example.Ecom.model.Items"
+    },
+    {
+      "name": "Art Set",
+      "quantity": 3,
+      "price": 220,
+      "_class": "com.example.Ecom.model.Items"
+    },
+    {
+      "name": "Teddy Bear",
+      "quantity": 5,
+      "price": 130,
+      "_class": "com.example.Ecom.model.Items"
+    },
+    {
+      "name": "Lego Set",
+      "quantity": 12,
+      "price": 280,
+      "_class": "com.example.Ecom.model.Items"
+    },
+    {
+      "name": "Kitchen Playset",
+      "quantity": 4,
+      "price": 190,
+      "_class": "com.example.Ecom.model.Items"
+    },
+    {
+      "name": "Soft Ball",
+      "quantity": 15,
+      "price": 50,
+      "_class": "com.example.Ecom.model.Items"
+    },
+    {
+      "name": "Toy Train Set",
+      "quantity": 3,
+      "price": 210,
+      "_class": "com.example.Ecom.model.Items"
+    },
+    {
+      "name": "Dinosaur Figurines",
+      "quantity": 9,
+      "price": 110,
+      "_class": "com.example.Ecom.model.Items"
+    },
+    {
+      "name": "Educational Tablet",
+      "quantity": 6,
+      "price": 320,
+      "_class": "com.example.Ecom.model.Items"
+    },
+    {
+      "name": "Artificial Intelligence Robot",
+      "quantity": 2,
+      "price": 500,
+      "_class": "com.example.Ecom.model.Items"
+    },
+    {
+      "name": "Magic Set",
+      "quantity": 7,
+      "price": 180,
+      "_class": "com.example.Ecom.model.Items"
+    },
+    {
+      "name": "Model Airplane Kit",
+      "quantity": 3,
+      "price": 240,
+      "_class": "com.example.Ecom.model.Items"
+    },
+    {
+      "name": "Music Box",
+      "quantity": 5,
+      "price": 160,
+      "_class": "com.example.Ecom.model.Items"
+    },
+    {
+      "name": "Play-Doh Set",
+      "quantity": 10,
+      "price": 70,
+      "_class": "com.example.Ecom.model.Items"
+    },
+    {
+      "name": "Science Experiment Kit",
+      "quantity": 4,
+      "price": 280,
+      "_class": "com.example.Ecom.model.Items"
+    },
+    {
+      "name": "Toy Telescope",
+      "quantity": 6,
+      "price": 200,
+      "_class": "com.example.Ecom.model.Items"
+    },
+    {
+      "name": "Video Game Console",
+      "quantity": 2,
+      "price": 450,
+      "_class": "com.example.Ecom.model.Items"
+    },
+    {
+      "name": "Wooden Blocks Set",
+      "quantity": 8,
+      "price": 120,
+      "_class": "com.example.Ecom.model.Items"
+    },
+    {
+      "name": "Bubble Blower",
+      "quantity": 5,
+      "price": 80,
+      "_class": "com.example.Ecom.model.Items"
+    },
+    {
+      "name": "Artificial Garden Set",
+      "quantity": 3,
+      "price": 300,
+      "_class": "com.example.Ecom.model.Items"
+    },
+    {
+      "name": "Sports Equipment Set",
+      "quantity": 4,
+      "price": 260,
+      "_class": "com.example.Ecom.model.Items"
+    },
+    {
+      "name": "Toy Piano",
+      "quantity": 6,
+      "price": 180,
+      "_class": "com.example.Ecom.model.Items"
+    },
+    {
+      "name": "Robot Dog",
+      "quantity": 2,
+      "price": 400,
+      "_class": "com.example.Ecom.model.Items"
+    },
+    {
+      "name": "Marble Run Set",
+      "quantity": 9,
+      "price": 150,
+      "_class": "com.example.Ecom.model.Items"
+    },
+    {
+      "name": "Educational Books Set",
+      "quantity": 5,
+      "price": 210,
+      "_class": "com.example.Ecom.model.Items"
+    }
+  ]
